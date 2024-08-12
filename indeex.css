@@ -1,0 +1,17 @@
+.inner{
+    width: 200px;
+    height:200px;
+    border: 20px;
+    padding: 10%;
+    /* text-decoration-color: rgb(206, 21, 21); */
+}
+.box{
+    /* text-shadow: 0cm; */
+    /* text-align: left;
+    font-style: italic; */
+    width: 100px;
+    height: 50px;
+    background-color: #d21717;
+    border-radius: 50%;
+    }
+    
